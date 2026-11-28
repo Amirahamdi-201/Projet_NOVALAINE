@@ -1,0 +1,21 @@
+# Projet NOVALAINE, module Data Processing (M2 INSEEC 2026-2027)
+# Python 3.11 ou plus récent (pandas 3 ne fonctionne pas en dessous)
+# Installation : pip install -r requirements.txt
+
+# Traitement des données (obligatoire d'après le brief)
+pandas>=3.0,<4
+numpy>=2.0
+
+# Visualisations
+matplotlib>=3.9
+seaborn>=0.13
+
+# Export du dictionnaire de données en .xlsx
+openpyxl>=3.1
+
+# Bonus du brief : K-means et régression logistique pour rachat_6m
+scikit-learn>=1.6
+
+# Jupyter (ipykernel suffit dans VS Code ; notebook pour l'ouvrir dans le navigateur)
+ipykernel>=6.29
+notebook>=7.2
