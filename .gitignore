@@ -1,0 +1,11 @@
+# Python et Jupyter
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+venv/
+
+# Fichiers temporaires Office et Windows
+~$*
+~WRL*.tmp
+desktop.ini
+Thumbs.db
